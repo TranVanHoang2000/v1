@@ -1,0 +1,1 @@
+clear && sleep 1s && echo "Đang Mở Tun2tap" && sleep 1s && am start -n com.newtoolsworks.tun2tap/com.newtoolsworks.vpn2share.MainActivity && sleep 1s && clear && echo "Đã Mở Tun2tap" && login

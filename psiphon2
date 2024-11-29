@@ -1,0 +1,10 @@
+clear
+echo "Đang Khởi Động Psiphon 2"
+sleep 0.1
+killall -9 psiphon-tunnel-core
+sleep 0.1
+killall -9 psiphon
+sleep 0.1
+killall -9 psiphon-tunnel-core
+sleep 0.1
+psiphonphonfree

@@ -1,0 +1,1 @@
+clear && sleep 1s && echo "Đang Mở Nekobox" && sleep 1s && am start -n moe.nb4a/io.nekohasekai.sagernet.ui.MainActivity && sleep 1s && clear && echo "Đã Mở Nekobox" && login

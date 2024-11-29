@@ -1,0 +1,1 @@
+clear && sleep 1s && echo "Đang Mở HyperSocksDroid" && sleep 1s && am start -n net.typeblog.socks/net.typeblog.socks.MainActivity && sleep 1s && clear && echo "Đã Mở HyperSocksDroid" && login
