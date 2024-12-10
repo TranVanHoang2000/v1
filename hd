@@ -1,0 +1,8 @@
+clear
+echo -e "Hello Mọi Người ! Tôi Là Trùm 4G"
+echo -e "Phiên bản: v1"
+echo " " 
+echo -e "[1]: Gõ Lệnh 4gmienphi1 Hoặc 4gmienphi2 Để Khởi Động Psiphon Free"
+echo -e "[2]: Gõ Lệnh exit Để Thoát Nhanh Termux"
+echo -e "[3]: Gõ Lệnh neko Để Mở NekoBox|Gõ Lệnh tun2 Để Mở Tun2tap|Gõ Lệnh hyper Để Mở HyperSocksDroid"
+echo " "
