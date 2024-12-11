@@ -1,4 +1,4 @@
-echo -e "Hello Mọi Người ! Tôi Là Trùm 4G"
+echo -e "\033[1;32mHello Mọi Người ! Tôi Là Trùm 4G \033[0m"
 echo -e "Phiên bản: v1"
 echo " " 
 echo -e "[1]: Gõ Lệnh 4gmienphi1 Hoặc 4gmienphi2 Để Khởi Động Psiphon Free"
