@@ -2,11 +2,11 @@ clear
 echo "Đang Bắt Đầu Cài Đặt"
 apt update && apt upgrade -y
 clear
-cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/caotu2k5/v4/raw/main/v4.zip && pkg install unzip -y && unzip v1.zip && chmod +x *
+cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/TranVanHoang2000/v1/raw/refs/heads/main/v1.zip && pkg install unzip -y && unzip v1.zip && chmod +x *
 clear
-cd && cd $HOME && cd /data/data/com.termux/files/usr/etc/ && pkg install wget -y && wget https://github.com/caotu2k5/v4/raw/main/t1 && mv hd motd
+cd && cd $HOME && cd /data/data/com.termux/files/usr/etc/ && pkg install wget -y && wget https://github.com/TranVanHoang2000/v1/raw/refs/heads/main/hd && mv hd motd
 clear
-cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/caotu2k5/v4/raw/main/l1 &&   chmod +x * && mv l1 login &&
+cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/TranVanHoang2000/v1/raw/refs/heads/main/color && chmod +x * && mv color login
 clear
 echo "Đã Cài Đặt Thành Công"
 login
